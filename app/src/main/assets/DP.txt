@@ -1,0 +1,100 @@
+Nutrient Value of Some Common Foods - 2008 Edition
+DAIRY FOODS AND OTHER RELATED PRODUCTS
+Food name,Measure,Weight,Energy,Protein,Total Sugar,Total Fat,Saturated Fat,Calcium,Sodium
+,,g,kcal,g,g,g,g,mg,mg
+"Buttermilk",250mL,259,104,9,12,2,1.4,300,272
+"Milk, chocolate, 1% M.F.",250mL,264,166,9,26,3,1.6,304,161
+"Milk, chocolate, 2% M.F.",250mL,264,190,8,26,5,3.3,301,158
+"Milk, partly skimmed, 1% M.F.",250mL,258,108,9,13,3,1.6,307,113
+"Milk, partly skimmed, 2% M.F.",250mL,258,129,9,13,5,3.3,302,106
+"Milk, partly skimmed, 2% M.F., with added milk solids",250mL,260,146,10,14,5,3.2,372,153
+"Milk, skim",250mL,259,88,9,13,tr,0.2,324,109
+"Milk, whole, 3.3% M.F.",250mL,258,155,8,14,8,5.4,291,103
+"Rice beverage, flavoured and unflavoured, enriched",250mL,259,127,tr,tr,2,0.2,319,91
+"Soy beverage, chocolate, enriched",250mL,257,162,6,20,4,0.6,323,136
+"Soy beverage, original and vanilla, enriched",250mL,257,110,7,9,4,0.5,316,120
+"Soy beverage, unsweetened, enriched",250mL,257,85,7,1,4,0.5,318,95
+PROCESSED MILK,,,,,,,,,
+"Milk, condensed, sweetened, canned (Eagle BrandTM)",15mL,19,62,2,11,2,1.1,55,25
+"Milk, evaporated, partly skimmed, canned, diluted, 2% M.F.",250mL,258,122,10,13,3,1.6,369,149
+"Milk, evaporated, partly skimmed, canned, undiluted, 2% M.F.",15mL,16,15,1,2,tr,0.2,44,18
+"Milk, evaporated, skim, canned, diluted, 0.2% M.F.",250mL,259,105,10,15,tr,0.2,392,157
+"Milk, evaporated, skim, canned, undiluted, 0.2% M.F.",15mL,16,13,1,2,tr,tr,47,19
+"Milk, evaporated, whole, canned, diluted, 7.8% M.F.",250mL,258,178,9,13,10,6.3,349,143
+"Milk, evaporated, whole, canned, undiluted, 7.8% M.F.",15mL,16,21,1,2,1,0.8,42,17
+"Milk, reconstituted, from skim milk powder",250mL,259,86,8,13,tr,0.1,301,137
+"Skim milk powder",5mL,1,5,1,1,tr,tr,18,8
+MILK BEVERAGES,,,,,,,,,
+"Chocolate milk, chocolate flavour powder + 2% milk",250mL,279,207,9,tr,6,3.4,321,176
+"Chocolate milk, syrup + 2% milk",250mL,298,238,10,tr,5,3.3,319,158
+"Eggnog, 7% M.F.",250mL,268,362,10,23,20,11.9,349,145
+"Hot chocolate, aspartame sweetened, powder + water",250mL,270,78,3,9,1,0,127,240
+"Hot chocolate, homemade with cocoa + 2% milk",250mL,264,203,9,26,6,3.8,277,116
+"Hot chocolate, powder + 2% milk",250mL,264,255,10,37,6,3.8,318,272
+"Hot chocolate, powder + water",250mL,291,160,2,30,2,0.9,64,206
+"Instant breakfast powder + 2% milk",250mL,280,260,16,12,5,3.1,555,286
+"Milk shake, chocolate",250mL,249,296,8,52,7,4.2,329,276
+"Milk shake, vanilla",250mL,249,279,10,44,8,4.7,364,237
+YOGOURTS AND OTHER FERMENTABLE BEVERAGES,,,,,,,,,
+"Drinkable yogourt",200mL,207,145,5,24,3,2.1,191,81
+"Fresh cheese (DanimalTM, MinigoTM)",1,60,68,3,10,2,1.1,138,32
+"Kefir, plain",175mL,165,104,6,6,6,3.8,187,70
+"Yogourt parfait with berries and granola",175mL,188,233,7,3,5,2.7,208,119
+"Yogourt, plain, 1-2% M.F.",175mL,181,114,10,13,3,1.8,332,127
+"Yogourt, plain, 2-4% M.F.",175mL,181,129,9,8,5,3.3,292,111
+"Yogourt, plain, fat-free",175mL,189,79,8,9,tr,0,253,113
+"Yogourt, vanilla or fruit, 1-2% M.F.",175mL,185,183,7,25,4,2.3,227,98
+"Yogourt, vanilla or fruit, fat-free",175mL,181,116,8,19,tr,tr,229,103
+"Yogourt, vanilla or fruit, fat-free with sugar substitute",175mL,189,94,7,14,tr,0,205,92
+CHEESE,,,,,,,,,
+"Blue Cheese",50g,50,177,11,tr,14,9.3,264,698
+"Brick Cheese",50g,50,186,12,tr,15,9.4,337,280
+"Brie",50g,50,167,10,tr,14,8.7,92,315
+"Camembert Cheese",50g,50,150,10,tr,12,7.6,194,421
+"Cheddar Cheese",50g,50,202,12,tr,17,10.5,361,311
+"Cheddar, low fat (18% M.F.)",50g,50,141,14,tr,9,5.8,453,363
+"Cottage cheese (1% M.F.)",125mL,119,86,15,3,1,0.8,73,500
+"Cream cheese, light",30mL,30,70,3,tr,5,3.4,34,90
+"Cream cheese, regular",30mL,29,103,2,tr,10,6.5,24,87
+"Edam",50g,50,179,12,1,14,8.8,366,483
+"Feta",50g,50,132,7,2,11,7.7,247,558
+"Goat cheese, soft",50g,50,134,9,tr,11,7.3,70,184
+"Gouda",50g,50,178,13,1,14,9,350,410
+"Gruyere",50g,50,207,15,tr,16,9.5,506,168
+"Imitation cheese",50g,50,120,8,4,7,4.4,281,673
+"Mozzarella (22.5% M.F.)",50g,50,141,10,1,11,6.8,269,187
+"Mozzarella, partially skimmed (16.5% M.F.)",50g,50,127,13,1,8,5.2,323,241
+"Parmesan, grated",15mL,6,27,2,tr,2,1.1,70,97
+"Processed cheese food, thin slices",1,21,78,5,tr,7,4.1,115,310
+"Processed cheese food, thin slices, light",1,21,50,4,2,3,1.8,110,331
+"Processed cheese spread (Cheez WhizTM)",30mL,31,90,5,tr,7,4.1,174,503
+"Processed cheese spread, light (Light Cheez WhizTM)",30mL,31,69,6,3,3,2.2,178,491
+"Ricotta cheese, partly skimmed milk",125mL,131,181,15,tr,10,6.5,356,164
+"Romano, grated",15mL,6,25,2,tr,2,1.1,67,76
+"Swiss (Emmental)",50g,50,190,13,1,14,8.9,396,96
+"Swiss, processed, thin slices",1,21,70,5,tr,5,3.3,161,285
+CREAM,,,,,,,,,
+"Half and half, 10% M.F.",15mL,15,18,tr,tr,2,1,16,6
+"Sour cream, 14% M.F.",15mL,15,22,tr,tr,2,1.3,16,6
+"Sour cream, light, 5% M.F.",15mL,16,21,1,tr,2,1,22,11
+"Table cream (coffee cream), 18% M.F.",15mL,15,28,tr,tr,3,1.7,15,6
+"Whipped, pressurized",60mL,15,39,tr,1,3,2.1,15,20
+"Whipping cream, 35% M.F., not whipped",15mL,15,49,tr,tr,5,3.3,10,5
+"Whipping cream, 35% M.F., sweetened, whipped",60mL,30,100,1,2,10,6.2,19,10
+"Coffee whitener, frozen liquid",15mL,15,21,tr,2,2,0.3,1,12
+"Coffee whitener, powdered",5mL,2,11,tr,1,1,0.6,tr,4
+"Coffee whitener, powdered, light",5mL,2,9,tr,1,tr,0.1,tr,5
+"Dessert topping, frozen",60mL,19,60,tr,4,5,4.1,1,5
+"Dessert topping, frozen, low fat",60mL,19,42,1,4,2,2.1,14,14
+"Dessert topping, powdered, prepared with 2% M.F. milk",60mL,20,37,1,3,2,2,19,12
+"Dessert topping, pressurized",60mL,18,47,tr,3,4,3.4,1,11
+PUDDING,,,,,,,,,
+"All flavours, instant, from mix, prepared with 2% milk",125mL,139,149,4,23,3,1.6,141,391
+"Chocolate, ready-to-eat",1 container,99,138,3,18,4,0.7,89,128
+"Chocolate, ready-to-eat, fat-free",1 container,99,96,3,15,tr,0.2,72,168
+"Rice, homemade",125mL,119,160,4,19,2,1.2,115,55
+"Rice, ready-to-eat",1 container,99,161,2,tr,7,1.2,51,84
+"Tapioca, ready-to-eat",1 container,99,118,2,18,4,0.6,83,157
+"Tapioca, ready-to-eat, fat-free",1 container,99,88,2,16,tr,0,50,210
+"Vanilla, ready-to-eat",1 container,99,128,2,20,4,0.6,87,134
+"Vanilla, ready-to-eat, fat-free",1 container,99,92,2,16,tr,tr,59,211

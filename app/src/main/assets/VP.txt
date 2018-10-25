@@ -1,0 +1,119 @@
+Nutrient Value of Some Common Foods - 2008 Edition
+VEGETABLES AND VEGETABLE PRODUCTS
+Food name,Measure,Weight,Energy,Protein,Carbohydrate,Total Sugar,Total Fat,Sodium,Vitamin B12
+,,g,kcal,g,g,g,g,mg,
+"Alfalfa sprouts, raw",60mL,8,2,tr,tr,tr,tr,1,0
+"Artichoke hearts, canned in water",1 heart,27,13,1,3,tr,tr,74,0
+"Artichoke hearts, marinated in oil",1 heart,28,27,1,3,tr,2,79,0
+"Artichoke, boiled, drained",1 medium,120,60,4,13,1,tr,114,0
+"Asparagus, canned, drained",6 spears,108,21,2,3,1,1,310,0
+"Asparagus, fresh or frozen, boiled, drained",6 spears,90,18,2,3,1,tr,8,0
+"Bean sprouts, stir-fried",125mL,66,33,3,7,tr,tr,6,0
+"Beans, lima, frozen, boiled, drained",125mL,95,100,6,18,1,tr,28,0
+"Beans, snap (green, yellow, Italian), canned, drained",125mL,71,14,1,3,1,tr,187,0
+"Beans, snap (green, yellow, Italian), fresh or frozen, boiled, drained",125mL,71,22,1,5,1,tr,4,0
+"Beets, pickled, sliced, not drained",125mL,120,78,1,20,tr,tr,317,0
+"Beets, sliced, boiled, drained",125mL,90,40,2,9,7,tr,69,0
+"Beets, sliced, canned, drained",125mL,90,28,1,6,5,tr,174,0
+"Belgium endive, raw",1 endive,53,9,tr,2,tr,tr,1,0
+"Bok Choy, Pak-Choi, shredded, boiled, drained",125mL,90,11,1,2,1,tr,31,0
+"Broccoli, chopped, boiled, drained",125mL,82,29,2,6,1,tr,34,0
+"Broccoli, chopped, raw",125mL,46,16,1,3,1,tr,15,0
+"Broccoli, frozen spears, boiled, drained",125mL,97,27,3,5,1,tr,23,0
+"Brussels sprouts, fresh or frozen, boiled, drained",4 sprouts,84,33,3,6,2,tr,15,0
+"Cabbage, green, shredded, boiled, drained",125mL,79,17,1,4,2,tr,6,0
+"Cabbage, green, shredded, raw",125mL,37,9,1,2,1,tr,7,0
+"Cabbage, napa, shredded, boiled, drained",125mL,58,7,1,1,tr,tr,6,0
+"Cabbage, red, shredded, raw",125mL,37,11,1,3,1,tr,10,0
+"Carrots, baby, raw",8,80,28,1,7,4,tr,62,0
+"Carrots, fresh or frozen, boiled, drained",125mL,77,28,1,6,3,tr,45,0
+"Carrots, raw",1 medium,61,25,1,6,3,tr,42,0
+"Cauliflower, pieces, boiled, drained",125mL,66,15,1,3,1,tr,10,0
+"Cauliflower, pieces, raw",125mL,53,13,1,3,1,tr,16,0
+"Celery, raw",1,40,6,tr,1,1,tr,32,0
+"Corn, sweet, canned, cream style",125mL,135,97,2,25,4,1,385,0
+"Corn, sweet, canned, niblets",125mL,111,88,3,22,4,1,302,0
+"Corn, sweet, on or off cob, fresh or frozen, boiled, drained",125mL,87,82,3,19,3,1,8,0
+"Cucumber, peeled, raw",4 slices,28,3,tr,1,tr,tr,1,0
+"Edamame",125mL,82,100,9,8,2,4,5,0
+"Eggplant, pieces, boiled, drained",125mL,52,18,tr,5,2,tr,1,0
+"Fiddleheads, frozen, boiled",125mL,98,33,4,6,tr,tr,tr,0
+"Fireweed leaves, raw",125mL,12,13,1,2,tr,tr,4,0
+"Hearts of palm, canned",2,66,18,2,3,tr,tr,281,0
+"Kale, chopped, boiled, drained",125mL,69,19,1,4,1,tr,16,0
+"Leeks, chopped, boiled, drained",125mL,55,17,tr,4,tr,tr,5,0
+"Lettuce, Boston, shredded",250mL,58,8,1,1,1,tr,3,0
+"Lettuce, iceberg, shredded",250mL,58,8,1,2,1,tr,6,0
+"Lettuce, looseleaf, shredded",250mL,59,9,1,2,tr,tr,17,0
+"Lettuce, romaine, shredded",250mL,59,10,1,2,1,tr,5,0
+"Lettuce, spring mix (mesclun)",250mL,58,12,1,2,tr,tr,21,0
+"Mushrooms, pieces, canned, drained",125mL,82,21,2,4,2,tr,350,0
+"Mushrooms, portobello, grilled",125mL,85,30,4,4,0,1,9,0
+"Mushrooms, raw",3 medium,54,12,2,2,1,tr,2,0.02
+"Mushrooms, shiitake, sliced, stir-fried",125mL,57,27,2,4,tr,tr,3,0
+"Mushrooms, white, sliced, stir-fried",125mL,57,15,2,2,0,tr,7,0
+"Onions, green (scallion), raw",1 medium,15,5,tr,1,tr,tr,2,0
+"Onions, yellow, chopped, raw",60mL,41,17,tr,4,2,tr,1,0
+"Onions, yellow, chopped, sauteed",125mL,46,61,tr,4,2,5,6,0
+"Parsnip, sliced, boiled, drained",125mL,82,59,1,14,4,tr,8,0
+"Peas, green, canned, drained",125mL,90,62,4,11,4,tr,226,0
+"Peas, green, frozen, boiled, drained",125mL,85,66,4,12,4,tr,61,0
+"Peas, snowpeas, boiled, drained",125mL,85,36,3,6,3,tr,3,0
+"Peas, snowpeas, raw",10,34,14,1,3,1,tr,1,0
+"Pepper, jalapeno, raw",1,14,4,tr,1,tr,tr,tr,0
+"Pepper, sweet, green, raw",1/2,82,16,1,4,2,tr,2,0
+"Pepper, sweet, green, sauteed",125mL,74,95,1,3,2,9,13,0
+"Pepper, sweet, red, raw",1/2,60,15,1,4,2,tr,1,0
+"Pepper, sweet, red, sauteed",125mL,74,99,1,5,3,9,16,0
+"Pepper, sweet, yellow, raw",1/2,93,25,1,6,tr,tr,2,0
+"Pepper, sweet, yellow, sauteed",125mL,74,36,1,5,0,2,175,tr
+"Potato, baked, flesh",1,156,145,3,34,3,tr,8,0
+"Potato, baked, flesh and skin",1,173,161,4,37,2,tr,17,0
+"Potato, boiled without skin",1,135,116,2,27,1,tr,7,0
+"Potato, boiled, flesh and skin",1,150,129,3,30,1,tr,7,0
+"Potato, canned, drained",4,140,84,2,19,tr,tr,307,0
+"Potato, microwaved, flesh and skin",1,202,212,5,49,tr,tr,16,0
+"Potato, microwaved, peeled after cooking",1,156,156,3,36,tr,tr,11,0
+"Potatoes, French fried, frozen, home-prepared in oven",20 strips,48,96,2,15,tr,4,14,0
+"Potatoes, hashed brown, plain, frozen, heated",125mL,82,180,3,23,1,9,28,0
+"Potatoes, mashed, dried, 2% milk and margarine added",125mL,111,107,3,15,2,4,284,0.13
+"Potatoes, mashed, homemade with 2% milk and margarine",125mL,111,116,2,19,tr,4,327,0.06
+"Potatoes, scalloped, from mix with water, 2% milk and margarine",125mL,129,120,3,16,2,5,420,0.11
+"Potatoes, scalloped, homemade",125mL,129,111,4,14,tr,5,434,0
+"Pumpkin, canned",125mL,129,44,1,10,4,tr,6,0
+"Radicchio, chopped",125mL,21,5,tr,1,tr,tr,5,0
+"Radishes",3 medium,14,2,tr,tr,tr,tr,5,0
+"Rutabaga (yellow turnip), diced, boiled, drained",125mL,90,35,1,8,5,tr,18,0
+"Sauerkraut, canned, not drained",125mL,75,14,1,3,1,tr,496,0
+"Seaweed, dulse, dried",60mL,4,8,1,1,tr,tr,11,0
+"Spinach, boiled, drained",125mL,95,22,3,4,tr,tr,67,0
+"Spinach, chopped, raw",250mL,32,7,1,1,tr,tr,25,0
+"Squash, acorn, cubed, baked",125mL,108,61,1,16,tr,tr,4,0
+"Squash, butternut, cubed, baked",125mL,108,43,1,11,2,tr,4,0
+"Squash, spaghetti, baked",125mL,82,22,1,5,2,tr,15,0
+"Sweet potato, baked, peeled after cooking",  1/2 ,57,51,1,12,5,tr,21,0
+"Sweet potato, boiled without skin",  1/2 ,76,57,1,13,4,tr,20,0
+"Swiss chard, chopped, boiled, drained",125mL,92,18,2,4,1,tr,165,0
+"Tomatoes, canned, stewed",125mL,135,35,1,8,6,tr,298,0
+"Tomatoes, canned, whole",125mL,127,22,1,5,3,tr,162,0
+"Tomatoes, raw",1,123,22,1,5,3,tr,6,0
+"Tomatoes, sun-dried",1 piece,2,5,tr,1,1,tr,42,0
+"Tomatoes, sun-dried, packed in oil, drained",1 piece,3,6,tr,1,tr,tr,8,0
+"Turnip (white turnip), cubed, boiled, drained",125mL,82,18,1,4,2,tr,13,0
+"Vegetables, Asian mix  (broccoli, carrots, green beans, mini corn, snow peas, sweet red pepper), frozen, boiled, drained",125mL,74,29,1,6,2,tr,15,0
+"Vegetables, broccoli and cauliflower, frozen, boiled, drained",125mL,95,22,2,4,1,tr,20,0
+"Vegetables, mixed (corn, lima beans, snap beans, peas, carrots), frozen, boiled, drained",125mL,96,63,3,13,3,tr,34,0
+"Vegetables, peas and carrots, canned, not drained",125mL,135,51,3,11,tr,tr,350,0
+"Zucchini, raw, slices",4,40,6,tr,1,1,tr,4,0
+"Zucchini, sliced, boiled, drained",125mL,95,15,1,4,2,tr,3,0
+VEGETABLE JUICES AND OTHER PRODUCTS,,,,,,,,,
+"Carrot juice",125mL,125,50,1,12,5,tr,36,0
+"Coleslaw with dressing, homemade",125mL,63,44,1,8,tr,2,15,0
+"Potato salad, homemade",125mL,132,205,4,14,3,15,579,0.2
+"Tomato clam cocktail",125mL,128,61,1,14,4,tr,462,0.04
+"Tomato juice",125mL,128,22,1,5,5,tr,345,0
+"Tomato juice, without added salt",125mL,184,31,1,8,7,tr,18,0
+"Tomato sauce for spaghetti, canned",125mL,132,143,2,21,tr,6,652,0
+"Tomato sauce, canned",125mL,129,41,2,10,6,tr,678,0
+"Vegetable juice cocktail",125mL,128,24,1,6,4,tr,345,0
+"Vegetable juice cocktail, low sodium",125mL,128,28,1,6,5,tr,89,0

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Nutrition Freak</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_string">Email</string>
+    <string name="passwordText">Password</string>
+    <string name="no_account_yet">No account yet? Create one</string>
+    <string name="logIn">LOGIN</string>
+    <string name="title_activity_bmi">BMIActivity</string>
+    <string name="title_activity_profile_set_up">ProfileSetUp</string>
+    <string name="weightTextView">Weight (lbs):</string>
+    <string name="hieghtTextView">Height:</string>
+    <string name="feet_string">(feet)</string>
+    <string name="inches_string">(inches)</string>
+    <string name="age_string">Age:</string>
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="createAccount">Create Account</string>
+    <string name="signUpTitle">Sign Up!</string>
+    <string name="provinceString">Province:</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_calendar">calendarActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="aboutInfo">Canadians are often faced with a challenge with nutrition and diet; some of which have even turned to mobile apps for help. We wanted to create an app that promotes healthy eating for those individuals—a more modernized method to communicate amongst users with dietary guidance. The main idea behind the app is to help those that struggle with identifying what a healthy meal is or making meal choices in general. It gives Canadians easy access to healthy eating information. The Nutrition Freak app allows you to create an easy-to-use customized meal plan for you and your family,based on age, and sex.\n\n\n\n\n\n\nCreated by:\nCesar Satana\nJeremey Klotz\nRebecca Tran\nHahd Khan</string>
+    <string name="updateStats">Update Personal Stats</string>
+    <string name="title_activity_meal_plan_of_the_day">mealPlanOfTheDayActivity</string>
+    <string name="title_activity_searching">searchingActivity</string>
+</resources>

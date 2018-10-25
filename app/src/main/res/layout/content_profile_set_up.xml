@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="xb3group.com.nutritionfreak.ProfileSetUp"
+    tools:showIn="@layout/activity_profile_set_up"
+    android:background="#00c5ff">
+
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Basic Information"
+                android:textColor="#ffffff"
+                android:textSize="25sp"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/titleTextViewID"
+                android:layout_alignParentTop="true" />
+
+            <TextView
+                android:text="Name: "
+                android:textColor="#ffffff"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textSize="22sp"
+                android:id="@+id/userNametextViewID"
+                android:layout_below="@id/titleTextViewID"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:layout_below="@+id/userNametextViewID"
+                android:id="@+id/userNameEditTextID"
+                android:textColor="#ffffff"
+                android:ems="10"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/age_string"
+                android:id="@+id/ageTextViewID"
+                android:textColor="#ffffff"
+                android:textSize="22sp"
+                android:layout_below="@+id/userNameEditTextID"
+                />
+
+            <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:ems="10"
+                android:id="@+id/ageEditTextID"
+                android:textColor="#ffffff"
+                android:layout_below="@+id/ageTextViewID"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/weightTextView"
+                android:id="@+id/weightTextViewID"
+                android:textColor="#ffffff"
+                android:textSize="22sp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@id/ageEditTextID"
+                />
+
+            <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:ems="10"
+                android:id="@+id/weightEditTextID"
+                android:textColor="#ffffff"
+                android:layout_below="@+id/weightTextViewID"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/hieghtTextView"
+                android:id="@+id/heightTextViewID"
+                android:layout_marginTop="10dp"
+                android:textColor="#ffffff"
+                android:textSize="22sp"
+                android:layout_below="@+id/weightEditTextID"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:ems="10"
+                android:textColor="#ffffff"
+                android:id="@+id/feetEditTextID"
+                android:layout_below="@+id/heightTextViewID"
+                android:layout_alignRight="@+id/weightTextViewID"
+                android:layout_alignEnd="@+id/weightTextViewID" />
+
+            <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:ems="10"
+                android:textColor="#ffffff"
+                android:id="@+id/inchesEditTextID"
+                android:layout_below="@id/heightTextViewID"
+                android:layout_alignTop="@+id/feetEditTextID"
+                android:layout_toRightOf="@+id/feetEditTextID"
+                android:layout_toEndOf="@+id/feetEditTextID" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/feet_string"
+                android:textColor="#ffffff"
+                android:id="@+id/feetTextViewID"
+                android:layout_below="@+id/feetEditTextID"
+                android:layout_alignLeft="@+id/feetEditTextID"
+                android:layout_alignStart="@+id/feetEditTextID" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/inches_string"
+                android:id="@+id/inchesTextViewID"
+                android:textColor="#ffffff"
+                android:layout_below="@+id/inchesEditTextID"
+                android:layout_toRightOf="@+id/feetEditTextID"
+                android:layout_toEndOf="@+id/feetEditTextID" />
+
+            <TextView
+                android:id="@+id/provinceTextViewID"
+                android:text="@string/provinceString"
+                android:textColor="#ffffff"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/feetTextViewID"
+                android:textSize="22sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <RadioGroup
+                android:layout_below="@id/provinceTextViewID"
+                android:id="@+id/provinceRadioGroupID"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RadioButton
+                    android:id="@+id/ontarioRadioButtonID"
+                    android:text="Ontario"
+                    android:textColor="#ffffff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <RadioButton
+                    android:id="@+id/quebecRadioButtonID"
+                    android:text="Quebec"
+                    android:textColor="#ffffff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <RadioButton
+                    android:id="@+id/manitobaRadioButtonID"
+                    android:text="Manitoba"
+                    android:textColor="#ffffff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <RadioButton
+                    android:id="@+id/saskRadioButtonID"
+                    android:text="Saskatchewan"
+                    android:textColor="#ffffff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <RadioButton
+                    android:id="@+id/albertaRadioButtonID"
+                    android:text="Alberta"
+                    android:textColor="#ffffff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <RadioButton
+                    android:text="British Columbia"
+                    android:textColor="#ffffff"
+                    android:id="@+id/britishColumbiaRadioButtonID"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <RadioButton
+                    android:id="@+id/newBrunswickRadioButtonID"
+                    android:text="New Brunswick"
+                    android:textColor="#ffffff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <RadioButton
+                    android:id="@+id/NovaScotiaRadioButtonID"
+                    android:text="Nova Scotia"
+                    android:textColor="#ffffff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <RadioButton
+                    android:text="Prince Edwards Islands"
+                    android:textColor="#ffffff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <RadioButton
+                    android:id="@+id/labradorRadioButtonID"
+                    android:text="New Found Land and Labrador "
+                    android:textColor="#ffffff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+            </RadioGroup>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Submit!"
+                android:id="@+id/submitButtonID"
+                android:layout_below="@+id/provinceRadioGroupID"
+                android:layout_centerHorizontal="true"
+                android:textColor="#ffffff"
+                android:background="#00b0e6"
+                android:layout_marginTop="10dp" />
+        </RelativeLayout>
+
+        </ScrollView>
+
+
+
+</RelativeLayout>
